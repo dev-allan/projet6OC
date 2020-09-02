@@ -3,6 +3,7 @@
 API du projet 6 de OpenClassrooms.
 Pour le bon fonctionnement de l'API, veuillez installez les dépendances suivantes :
 `npm install --save express`,
+`npm install --save body-parser`,
 `npm install --save mongoose`,
 `npm install --save mongoose-unique-validator`,
 `npm install --save bcrypt`,
